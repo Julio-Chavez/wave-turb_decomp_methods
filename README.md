@@ -1,0 +1,1 @@
+The main script is DMD script. Start by running block by block. There is an example data time series but the DMD parameters might need tunning.
