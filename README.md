@@ -1,1 +1,1 @@
-The main script is DMD script. Start by running block by block. There is an example data time series but the DMD parameters might need tunning.
+The main script is all_decomp_methods. There is an example synthetic data time series 'SynthData1.mat' to see the different methods in action.
